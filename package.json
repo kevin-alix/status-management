@@ -1,0 +1,19 @@
+{
+  "name": "status-management",
+  "version": "1.0.0",
+  "description": "Status Management Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Status",
+    "Management"
+  ],
+  "author": "Kevin Alix",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.0.1"
+  }
+}
