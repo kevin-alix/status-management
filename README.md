@@ -12,6 +12,12 @@ npm install --save-dev electron
 
 npm start
 
+npm install --save-dev @electron-forge/cli
+
+npx electron-forge import
+
+npm run make
+
 npm i fs
 
 npm install && npm start
