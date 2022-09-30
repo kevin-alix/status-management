@@ -1,12 +1,13 @@
 {
   "name": "status-management",
   "version": "1.0.0",
-  "description": "Status Management Application",
+  "description": "Process Status Management Application - Electron JS",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/kevin-alix/status-management.git",
   "keywords": [
     "Status",
     "Management"
